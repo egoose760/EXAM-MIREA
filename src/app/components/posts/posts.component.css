@@ -1,0 +1,17 @@
+.posts {
+    margin: 32px auto;
+    width: 70%;
+}
+
+.posts h2 {
+    margin: 0 0 32px 0;
+    text-align: center;
+    font-weight: 800;
+    font-size: xx-large;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-row-gap: 32px;
+}
