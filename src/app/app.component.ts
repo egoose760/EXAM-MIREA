@@ -20,26 +20,26 @@ export const allPosts: IallPosts[] = [
   {
     id: 2,
     title: 'Nile AiR Jordan 1',
-    description: 'Машина - средство передвижения, которое обеспечивает быстрое перемещение по городу.',
-    img: 'https://motor.ru/thumb/1500x0/filters:quality(75):no_upscale()/imgs/2020/09/07/14/4099186/52d8f45d1ae944564ab28538f5a79af4894c5106.jpg'
+    description: 'Легендарная модель, прошедшая через многие поколения. Кроссовки созданные для легендарного баскетболбного игрока - Майкла Джордана.',
+    img: 'https://houseofheat.co/app/uploads/2020/07/nike-sb-dunk-low-chicago.jpg'
   },
   {
     id: 3,
-    title: 'Пирог',
-    description: 'Пирог от мамы это хорошо, а пирог от бабушки это божественно.',
-    img: 'https://img.delo-vcusa.ru/2019/09/pesochniy-pirog-s-yablokami.jpg'
+    title: 'Nike Dunk',
+    description: 'Nike Dunk - простой дизайн, сбалансированная расцветка, универсальность формы и стиля.  Обувь, ставшая основным элементом скейтбординга.',
+    img: 'https://images.solecollector.com/complex/images/c_crop,h_615,w_1094,x_24,y_117/f_auto,fl_lossy,q_auto,w_1200/rpctozvveycmjakwrklf/nike-dunk-low-unlv-2021-dd1391-002-pair'
   },
   {
     id: 3,
-    title: 'Пирог',
-    description: 'Пирог от мамы это хорошо, а пирог от бабушки это божественно.',
-    img: 'https://img.delo-vcusa.ru/2019/09/pesochniy-pirog-s-yablokami.jpg'
+    title: 'Adidad yeezy 500',
+    description: 'Adidas Yeezy 500 - действительно привлекательный, с исключительным мастерством. Колоборация Adidas и Кани Уэста.',
+    img: 'https://images.51microshop.com/5744/product/20191016/1_1_BASF_Boost_Adidas_Yeezy_Boost_500_Blush_1571196060614_1.jpg'
   }, 
   {
     id: 3,
-    title: 'Пирог',
-    description: 'Пирог от мамы это хорошо, а пирог от бабушки это божественно.',
-    img: 'https://img.delo-vcusa.ru/2019/09/pesochniy-pirog-s-yablokami.jpg'
+    title: 'Nile Jordan 4',
+    description: 'Кроссовки Air Jordan 4 сохраняют культовый статус с момента своего дебюта в 1989 году до наших дней. Модель, связанная с одним из самых незабываемых моментов в карьере Майкла Джордана.',
+    img: 'https://myreact.ru/wp-content/uploads/2020/08/ct8527_115_2_1.jpg'
   }
 ]
 let a: boolean = isSignin;
